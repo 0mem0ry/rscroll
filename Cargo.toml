@@ -1,0 +1,12 @@
+[package]
+name = "rscroll"
+version = "0.1.0-rc1"
+edition = "2021"
+description = "TUI File Explorer Insipred by cscroll"
+license = "BSD 3-Clause"
+
+[dependencies]
+crossterm = "0.23"
+tui = "0.18"
+gethostname = "0.2"
+username = "0.2"
